@@ -1,4 +1,4 @@
-# usrexpdesign
+# uedesign
 Fórum Temático - User Experience Design
 
 DOCUMENTAÇÃO: 
